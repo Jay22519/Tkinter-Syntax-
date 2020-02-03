@@ -7,3 +7,4 @@ label = Label(root , image = photo)
 label.pack()
 
 root.mainloop() 
+#This is a comment added through Git
